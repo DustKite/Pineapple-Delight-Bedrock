@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:item": {
+    "components": {
+      "minecraft:block_placer": {
+        "block": "pineapple_delight:pineapple_pie",
+        "replace_block_item": true
+      },
+      "minecraft:wearable": {
+        "slot": "slot.weapon.offhand"
+      },
+      "minecraft:icon": {
+        "textures": {
+          "default": "pineapple_pie"
+        }
+      }
+    },
+    "description": {
+      "identifier": "pineapple_delight:pineapple_pie",
+      "menu_category": {
+        "category": "equipment",
+        "group": "farmersdelight:itemGroup.name.miscFood"
+      }
+    }
+  }
+}

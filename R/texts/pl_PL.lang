@@ -1,0 +1,15 @@
+pack.name=Pineapple Delight
+pack.description=Kompatybilne z 1.21.100+, umieść nad głównym pakietem. Ten mod to adaptacja oryginalnego moda Java Pineapple Delight na licencji Pineapple License.
+
+item.pineapple_delight:wild_pineapple=Dziki Ananas
+item.pineapple_delight:pineapple_crop=Roślina Ananasa
+item.pineapple_delight:pineapple=Ananas
+item.pineapple_delight:pineapple_side=Kawałek Ananasa
+item.pineapple_delight:pineapple_milkshake=Milkshake Ananasowy
+item.pineapple_delight:pineapple_fried_rice=Smażony Ryż z Ananasem
+item.pineapple_delight:pineapple_ice_cream=Lody Ananasowe
+item.pineapple_delight:pineapple_pie=Ciasto Ananasowe
+item.pineapple_delight:pineapple_pie_side=Kawałek Ciasta Ananasowego
+item.pineapple_delight:pineapple_juice=Sok Ananasowy
+
+tile.pineapple_delight:pineapple_crate.name=Skrzynka z Ananasami

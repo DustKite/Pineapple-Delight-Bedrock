@@ -1,0 +1,24 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "pineapple_delight:pineapple_crate"
+        },
+        "key": {
+            "#": {
+                "item": "pineapple_delight:pineapple"
+            }
+        },
+        "pattern": [
+            "###",
+            "###",
+            "###"
+        ],
+        "result": {
+            "item": "pineapple_delight:pineapple_crate"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "pineapple_delight:pineapple_block": {
+    "sound": "grass"
+  },
+  "pineapple_delight:wild_pineapple": {
+    "sound": "grass"
+  },
+  "pineapple_delight:pineapple_pie": {
+    "sound": "cloth"
+  },
+  "pineapple_delight:pineapple_crate": {
+    "sound": "wood"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}

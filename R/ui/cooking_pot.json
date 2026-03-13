@@ -1,0 +1,414 @@
+{
+  "eggs_anim": {
+    "type": "image",
+    "texture": "textures/gui/eggs_anim",
+    "uv": "@3_fps",
+    "uv_size": [
+      16,
+      16
+    ],
+    "disable_anim_fast_forward": true
+  },
+  "3_fps": {
+    "anim_type": "flip_book",
+    "initial_uv": [
+      0,
+      0
+    ],
+    "frame_count": 3,
+    "frame_step": 16,
+    "fps": 1,
+    "reversible": true,
+    "easing": "linear"
+  },
+    "pineappledelight_recipe_part_0": {
+        "type": "panel",
+        "size": [
+            150,
+            38
+        ],
+        "controls": [
+            {
+                "pineapple_juice@cooking_pot.cooking_pot_recipe": {
+                    "texture": "textures/gui/recipe/cooking_recipe",
+                    "offset": [
+                        -37.5,
+                        0
+                    ],
+                    "size": [
+                        75,
+                        38
+                    ],
+                    "controls": [
+                        {
+                            "cooking_pot_recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                                "$cell0": "textures/items/pineapple_side",
+                                "$cell1": "textures/items/pineapple_side",
+                                "$cell2": "textures/items/sugar",
+                                "$container": "textures/items/potion_bottle_empty",
+                                "$result": "textures/items/pineapple_juice"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "pineapple_fried_rice@cooking_pot.cooking_pot_recipe": {
+                    "texture": "textures/gui/recipe/cooking_recipe",
+                    "offset": [
+                        37.5,
+                        0
+                    ],
+                    "size": [
+                        75,
+                        38
+                    ],
+                    "controls": [
+                        {
+                            "cooking_pot_recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                            "controls": [
+                                    {
+                                        "cell0": {
+                                            "type": "image",
+                                            "offset": [
+                                                -23,
+                                                -7
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "texture": "textures/items/pineapple_side"
+                                        }
+                                    },
+                                    {
+                                        "cell1": {
+                                            "type": "image",
+                                            "offset": [
+                                                -6.25,
+                                                -7
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "texture": "textures/items/rice"
+                                        }
+                                    },
+                                    {
+                                        "cell2@cooking_pot.eggs_anim": {
+                                            "type": "image",
+                                            "offset": [
+                                                -14.625,
+                                                -7
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "cell3": {
+                                        "type": "image",
+                                  "offset": [
+                                                -23,
+                                                1.5
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "texture": "textures/items/carrot"
+                                              }
+                                    },
+                                    {
+                                        "container": {
+                                             "type": "image",
+                                             "offset": [
+                                                        6,
+                                                       10.875
+                                                      ],
+                                               "size": [
+                                                  7.5,
+                                                  7.5
+                                                      ],
+                                           "texture": "textures/items/pineapple"
+                                                     }
+                                    },
+                                    {
+                                        "result": {
+                                            "offset": [
+                                                21,
+                                                -5.25
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "type": "image",
+                                            "texture": "textures/items/pineapple_fried_rice"
+                                        }
+                                    }
+                         ]}}]}}]
+    },
+    "pineappledelight_recipe_grid_0": {
+        "type": "grid",
+        "size": [
+            150,
+            38
+        ],
+        "grid_dimensions": [
+            1,
+            1
+        ],
+        "grid_item_template": "cooking_pot.pineappledelight_recipe_part_0"
+    },
+    "pineappledelight_recipe_part_1": {
+        "type": "panel",
+        "size": [
+            150,
+            38
+        ],
+        "controls": [
+            {
+                "pineapple_milkshake@cooking_pot.cooking_pot_recipe": {
+                    "texture": "textures/gui/recipe/cooking_recipe",
+                    "offset": [
+                        -37.5,
+                        0
+                    ],
+                    "size": [
+                        75,
+                        38
+                    ],
+                    "controls": [
+                        {
+                            "cooking_pot_recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                            "controls": [
+                                    {
+                                        "cell0": {
+                                            "type": "image",
+                                            "offset": [
+                                                -23,
+                                                -7
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "texture": "textures/items/pineapple_side"
+                                        }
+                                    },
+                                    {
+                                        "cell1": {
+                                            "type": "image",
+                                            "offset": [
+                                                -14.625,
+                                                -7
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "texture": "textures/items/pineapple_side"
+                                        }
+                                    },
+                                    {
+                                        "cell2": {
+                                            "type": "image",
+                                            "offset": [
+                                                -6.25,
+                                                -7
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "texture": "textures/items/milk_bottle"
+                                        }
+                                    },
+                                    {
+                                        "cell3": {
+                                        "type": "image",
+                                  "offset": [
+                                                -23,
+                                                1.5
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "texture": "textures/items/sugar"
+                                              }
+                                    },
+                                    {
+                                        "cell4": {
+                                        "type": "image",
+                                  "offset": [
+                                               -14.625,
+                                                1.5
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "texture": "textures/items/sugar"
+                                              }
+                                    },
+                                    {
+                                        "result": {
+                                            "offset": [
+                                                21,
+                                                -5.25
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "type": "image",
+                                            "texture": "textures/items/pineapple_milkshake"
+                                        }
+                                    }
+                         ]
+                        }
+                        }
+                    ]
+                }
+               },
+            {
+                "pineapple_ice_cream@cooking_pot.cooking_pot_recipe": {
+                    "texture": "textures/gui/recipe/cooking_recipe",
+                    "offset": [
+                        37.5,
+                        0
+                    ],
+                    "size": [
+                        75,
+                        38
+                    ],
+                    "controls": [
+                        {
+                            "cooking_pot_recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                            "controls": [
+                                    {
+                                        "cell0": {
+                                            "type": "image",
+                                            "offset": [
+                                                -23,
+                                                -7
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "texture": "textures/items/pineapple_side"
+                                        }
+                                    },
+                                    {
+                                        "cell1": {
+                                            "type": "image",
+                                            "offset": [
+                                                -14.625,
+                                                -7
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "texture": "textures/items/pineapple_side"
+                                        }
+                                    },
+                                    {
+                                        "cell2": {
+                                            "type": "image",
+                                            "offset": [
+                                                -6.25,
+                                                -7
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "texture": "textures/items/milk_bottle"
+                                        }
+                                    },
+                                    {
+                                        "cell3": {
+                                        "type": "image",
+                                  "offset": [
+                                                -23,
+                                                1.5
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "texture": "textures/items/sugar"
+                                              }
+                                    },
+                                    {
+                                        "cell4": {
+                                        "type": "image",
+                                  "offset": [
+                                               -14.625,
+                                                1.5
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "texture": "textures/items/snowball"
+                                              }
+                                    },
+                                    {
+                                        "result": {
+                                            "offset": [
+                                                21,
+                                                -5.25
+                                            ],
+                                            "size": [
+                                                7.5,
+                                                7.5
+                                            ],
+                                            "type": "image",
+                                            "texture": "textures/items/pineapple_ice_cream"
+                                        }
+                                    }
+                         ]
+                        }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "pineappledelight_recipe_grid_1": {
+        "type": "grid",
+        "size": [
+            150,
+            38
+        ],
+        "grid_dimensions": [
+            1,
+            1
+        ],
+        "grid_item_template": "cooking_pot.pineappledelight_recipe_part_1"
+    },
+    "recipe_grid_panel": {
+        "modifications": [
+            {
+                "array_name": "controls",
+                "operation": "insert_back",
+                "value": [
+                    {
+                        "pineappledelight_recipe_grid_0@cooking_pot.pineappledelight_recipe_part_0": {}
+                    },
+                    {
+                        "pineappledelight_recipe_grid_1@cooking_pot.pineappledelight_recipe_grid_1": {}
+                    }
+                ]
+            }
+        ]
+    }
+}

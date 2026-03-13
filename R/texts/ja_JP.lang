@@ -1,0 +1,15 @@
+pack.name=Pineapple Delight
+pack.description=1.21.100+ に対応、メインパッケージの上に配置してください。このMODはオリジナルJava版MOD Pineapple DelightをPineapple Licenseに準拠して移植したものです。
+
+item.pineapple_delight:wild_pineapple=野生のパイナップル
+item.pineapple_delight:pineapple_crop=パイナップルの苗
+item.pineapple_delight:pineapple=パイナップル
+item.pineapple_delight:pineapple_side=スライスしたパイナップル
+item.pineapple_delight:pineapple_milkshake=パイナップルミルクセーキ
+item.pineapple_delight:pineapple_fried_rice=パイナップルチャーハン
+item.pineapple_delight:pineapple_ice_cream=パイナップルアイスクリーム
+item.pineapple_delight:pineapple_pie=パイナップルパイ
+item.pineapple_delight:pineapple_pie_side=切り分けたパイナップルパイ
+item.pineapple_delight:pineapple_juice=パイナップルジュース
+
+tile.pineapple_delight:pineapple_crate.name=パイナップル箱

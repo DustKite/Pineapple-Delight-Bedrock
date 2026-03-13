@@ -1,0 +1,33 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "pineapple_crop": {
+      "textures": "textures/items/pineapple_crop"
+    },
+    "pineapple_side": {
+      "textures": "textures/items/pineapple_side"
+    },
+    "pineapple_pie_side": {
+      "textures": "textures/items/pineapple_pie_side"
+    },
+    "pineapple_pie": {
+      "textures": "textures/items/pineapple_pie"
+    },
+    "pineapple_ice_cream": {
+      "textures": "textures/items/pineapple_ice_cream"
+    },
+    "pineapple_milkshake": {
+      "textures": "textures/items/pineapple_milkshake"
+    },
+    "pineapple_fried_rice": {
+      "textures": "textures/items/pineapple_fried_rice"
+    },
+    "pineapple_juice": {
+      "textures": "textures/items/pineapple_juice"
+    },
+    "pineapple": {
+      "textures": "textures/items/pineapple"
+    }
+  }
+}

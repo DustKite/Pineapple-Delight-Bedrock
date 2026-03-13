@@ -1,0 +1,15 @@
+pack.name=凤梨乐事
+pack.description=适配1.21.100+, 请置于主包上方加载. 本模组根据原Java版模组凤梨乐事在遵循凤梨许可证的情况下进行移植.
+
+item.pineapple_delight:wild_pineapple=野凤梨
+item.pineapple_delight:pineapple_crop=凤梨芽
+item.pineapple_delight:pineapple=凤梨
+item.pineapple_delight:pineapple_side=凤梨片
+item.pineapple_delight:pineapple_milkshake=凤梨奶昔
+item.pineapple_delight:pineapple_fried_rice=凤梨炒饭
+item.pineapple_delight:pineapple_ice_cream=凤梨冰淇凌
+item.pineapple_delight:pineapple_pie=凤梨派
+item.pineapple_delight:pineapple_pie_side=凤梨派切片
+item.pineapple_delight:pineapple_juice=凤梨果汁
+
+tile.pineapple_delight:pineapple_crate.name=箱装凤梨

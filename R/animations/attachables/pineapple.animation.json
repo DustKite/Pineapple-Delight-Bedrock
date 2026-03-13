@@ -1,0 +1,25 @@
+{
+	"format_version": "1.10.0",
+	"animations": {
+		"animation.pineapple.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"bone": {
+					"rotation": [17.02606, -14.02491, -130.50251],
+					"position": [-5, 30.7, -6.1],
+					"scale": 0.7
+				}
+			}
+		},
+		"animation.pineapple.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"bone": {
+					"rotation": [27.72841, 35.30129, -348.23043],
+					"position": [0, 17.2, -1.9],
+					"scale": 0.7
+				}
+			}
+		}
+	}
+}

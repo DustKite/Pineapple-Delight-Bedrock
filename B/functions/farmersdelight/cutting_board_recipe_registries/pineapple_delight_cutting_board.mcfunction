@@ -1,0 +1,3 @@
+scriptevent farmersdelight:cutting_board_recipe { "ingredients": { "item": "pineapple_delight:pineapple" }, "result": [{ "item": "pineapple_delight:pineapple_side", "count": 2 },{ "item": "pineapple_delight:pineapple_crop", "count": 1 }], "tool": { "tag": "farmersdelight:is_knife" }, "is_block_type": false, "sound": "use.wood" }
+scriptevent farmersdelight:cutting_board_recipe { "ingredients": { "item": "pineapple_delight:pineapple_pie" }, "result": [{ "item": "pineapple_delight:pineapple_pie_side", "count": 4 }], "tool": { "tag": "farmersdelight:is_knife" }, "is_block_type": false, "sound": "use.wood" }
+scoreboard objectives remove farmersdelight_pineapple_delight_cutting_board

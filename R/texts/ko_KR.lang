@@ -1,0 +1,15 @@
+pack.name=Pineapple Delight
+pack.description=1.21.100+ 버전 호환, 메인 패키지 위에 로드하십시오. 본 모드는 원작 Java Edition 모드 Pineapple Delight를 Pineapple License 하에 이식하였습니다.
+
+item.pineapple_delight:wild_pineapple=야생 파인애플
+item.pineapple_delight:pineapple_crop=파인애플 작물
+item.pineapple_delight:pineapple=파인애플
+item.pineapple_delight:pineapple_side=파인애플 조각
+item.pineapple_delight:pineapple_milkshake=파인애플 밀크셰이크
+item.pineapple_delight:pineapple_fried_rice=파인애플 볶음밥
+item.pineapple_delight:pineapple_ice_cream=파인애플 아이스크림
+item.pineapple_delight:pineapple_pie=파인애플 파이
+item.pineapple_delight:pineapple_pie_side=파인애플 파이 조각
+item.pineapple_delight:pineapple_juice=파인애플 주스
+
+tile.pineapple_delight:pineapple_crate.name=파인애플 상자

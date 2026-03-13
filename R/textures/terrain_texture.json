@@ -1,0 +1,37 @@
+{
+    "texture_data": {
+      "pineapple_crop_3": {
+        "textures": "textures/blocks/pineapple_crop_3"
+      },
+      "pineapple_crop_2": {
+        "textures": "textures/blocks/pineapple_crop_2"
+      },
+      "pineapple_crop_1": {
+        "textures": "textures/blocks/pineapple_crop_1"
+      },
+      "pineapple_pie_top": {
+        "textures": "textures/blocks/pineapple_pie_top"
+      },
+      "pie_bottom": {
+        "textures": "textures/blocks/pie_bottom"
+      },
+      "pie_side": {
+        "textures": "textures/blocks/pie_side"
+      },
+      "pineapple_pie_inner": {
+        "textures": "textures/blocks/pineapple_pie_inner"
+      },
+      "pineapple_block_bottom": {
+        "textures": "textures/blocks/pineapple_block_bottom"
+      },
+      "pineapple_block_side": {
+        "textures": "textures/blocks/pineapple_block_side"
+      },
+      "pineapple_block_top": {
+        "textures": "textures/blocks/pineapple_block_top"
+      },
+      "pineapple_crop_0": {
+        "textures": "textures/blocks/pineapple_crop_0"
+      }
+    }
+  }

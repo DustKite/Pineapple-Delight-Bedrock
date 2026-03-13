@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.20",
+    "minecraft:scatter_feature": {
+        "description": {
+            "identifier": "pineapple_delight:scatter_wild_pineapple_feature"
+        },
+        "places_feature": "pineapple_delight:wild_pineapple_feature",
+        "iterations": 7,
+        "x": {
+            "distribution": "uniform",
+            "extent": [
+                -2,
+                4
+            ]
+        },
+        "y": "query.above_top_solid(variable.worldx, variable.worldz)",
+        "z": {
+            "distribution": "uniform",
+            "extent": [
+                -2,
+                4
+            ]
+        }
+    }
+}

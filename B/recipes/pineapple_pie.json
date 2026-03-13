@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pineapple_delight:pineapple_pie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "BCB"
+    ],
+    "key": {
+      "A": {
+        "item": "pineapple_delight:pineapple_side"
+      },
+      "B": {
+      "item": "minecraft:sugar"
+      },
+      "C": {
+        "item": "farmersdelight:pie_crust"
+      }
+    },
+    "result": {
+      "item": "pineapple_delight:pineapple_pie"
+    }
+  }
+}

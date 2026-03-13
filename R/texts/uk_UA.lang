@@ -1,0 +1,15 @@
+pack.name=Pineapple Delight
+pack.description=Сумісність з 1.21.100+, розмістіть над основним пакетом. Цей мод є адаптацією оригінального Java мода Pineapple Delight за ліцензією Pineapple License.
+
+item.pineapple_delight:wild_pineapple=Дикий ананас
+item.pineapple_delight:pineapple_crop=Паросток ананаса
+item.pineapple_delight:pineapple=Ананас
+item.pineapple_delight:pineapple_side=Скибка ананаса
+item.pineapple_delight:pineapple_milkshake=Ананасовий молочний коктейль
+item.pineapple_delight:pineapple_fried_rice=Смажений рис із ананасом
+item.pineapple_delight:pineapple_ice_cream=Ананасове морозиво
+item.pineapple_delight:pineapple_pie=Ананасовий пиріг
+item.pineapple_delight:pineapple_pie_side=Шматок ананасового пирога
+item.pineapple_delight:pineapple_juice=Ананасовий сік
+
+tile.pineapple_delight:pineapple_crate.name=Ящик з ананасами

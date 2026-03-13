@@ -1,0 +1,15 @@
+pack.description=For1.21.100+, Please place it above the main package to load. This addon is ported based on the original Java Edition mod Pineapple Delight and this work is licensed under the Pineapple License.
+pack.name=Pineapple Delight
+
+item.pineapple_delight:wild_pineapple=Wild Pineapple Crop
+item.pineapple_delight:pineapple_crop=Pineapple Crop
+item.pineapple_delight:pineapple=Pineapple
+item.pineapple_delight:pineapple_side=Pineapple Sides
+item.pineapple_delight:pineapple_milkshake=Pineapple Milkshake
+item.pineapple_delight:pineapple_fried_rice=Pineapple Fried Rice
+item.pineapple_delight:pineapple_ice_cream=Pineapple Ice-cream
+item.pineapple_delight:pineapple_pie=Pineapple Pie
+item.pineapple_delight:pineapple_pie_side=Slice of Pineapple Pie
+item.pineapple_delight:pineapple_juice=Pineapple Juice
+
+tile.pineapple_delight:pineapple_crate.name=Crate Pineapple
