@@ -1,5 +1,5 @@
 {
-    "format_version": "1.21.100",
+    "format_version": "1.26.0",
     "minecraft:block": {
         "description": {
             "identifier": "pineapple_delight:wild_pineapple",
@@ -88,7 +88,10 @@
                 ]
             },
             "minecraft:loot": "loot_tables/pineapple_delight/crops/wild_pineapple.json",
-            "minecraft:collision_box": false
+            "minecraft:collision_box": false,
+            "minecraft:connection_rule": {
+                "accepts_connections_from": "none"
+            }
         }
     }
 }

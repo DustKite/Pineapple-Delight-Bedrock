@@ -1,5 +1,5 @@
 pack.name=Pineapple Delight
-pack.description=1.21.100+ に対応、メインパッケージの上に配置してください。このMODはオリジナルJava版MOD Pineapple DelightをPineapple Licenseに準拠して移植したものです。
+pack.description=1.26.0+ に対応、メインパッケージの上に配置してください。このMODはオリジナルJava版MOD Pineapple DelightをPineapple Licenseに準拠して移植したものです。
 
 item.pineapple_delight:wild_pineapple=野生のパイナップル
 item.pineapple_delight:pineapple_crop=パイナップルの苗

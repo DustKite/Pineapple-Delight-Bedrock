@@ -1,5 +1,5 @@
 pack.name=凤梨乐事
-pack.description=适配1.21.100+, 请置于主包上方加载. 本模组根据原Java版模组凤梨乐事在遵循凤梨许可证的情况下进行移植.
+pack.description=适配1.26.0+, 请置于主包上方加载. 本模组根据原Java版模组凤梨乐事在遵循凤梨许可证的情况下进行移植.
 
 item.pineapple_delight:wild_pineapple=野凤梨
 item.pineapple_delight:pineapple_crop=凤梨芽

@@ -1,5 +1,5 @@
 {
-    "format_version": "1.21.100",
+    "format_version": "1.26.0",
     "minecraft:block": {
         "description": {
             "identifier": "pineapple_delight:pineapple_pie",
@@ -154,6 +154,9 @@
                     4.0,
                     12.0
                 ]
+            },
+            "minecraft:connection_rule": {
+                "accepts_connections_from": "none"
             }
         }
     }

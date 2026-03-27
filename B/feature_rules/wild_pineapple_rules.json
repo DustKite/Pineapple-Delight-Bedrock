@@ -6,7 +6,7 @@
             "places_feature": "pineapple_delight:wild_pineapple_aggregate_feature"
         },
         "conditions": {
-            "placement_pass": "surface_pass",
+            "placement_pass": "final_pass",
             "minecraft:biome_filter": [
                 {
                     "all_of": [

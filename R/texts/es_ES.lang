@@ -1,5 +1,5 @@
 pack.name=Pineapple Delight
-pack.description=Compatibilidad con 1.21.100+, colócalo encima del paquete principal. Este mod es una adaptación del mod Java original Pineapple Delight bajo Pineapple License.
+pack.description=Compatibilidad con 1.26.0+, colócalo encima del paquete principal. Este mod es una adaptación del mod Java original Pineapple Delight bajo Pineapple License.
 
 item.pineapple_delight:wild_pineapple=Piña Silvestre
 item.pineapple_delight:pineapple_crop=Planta de Piña
