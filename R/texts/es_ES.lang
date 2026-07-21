@@ -11,5 +11,8 @@ item.pineapple_delight:pineapple_ice_cream=Helado de Piña
 item.pineapple_delight:pineapple_pie=Pastel de Piña
 item.pineapple_delight:pineapple_pie_side=Trozo de Pastel de Piña
 item.pineapple_delight:pineapple_juice=Zumo de Piña
+item.pineapple_delight:golden_pineapple=Piña Dorada
+item.pineapple_delight:pineapple_cake=Pastel de Piña
+item.pineapple_delight:pineapple_cake_slice=Trozo de Pastel de Piña
 
 tile.pineapple_delight:pineapple_crate.name=Caja de Piña

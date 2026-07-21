@@ -8,6 +8,9 @@
   "pineapple_delight:pineapple_pie": {
     "sound": "cloth"
   },
+  "pineapple_delight:pineapple_cake": {
+    "sound": "cloth"
+  },
   "pineapple_delight:pineapple_crate": {
     "sound": "wood"
   },

@@ -8,7 +8,8 @@
                     0,
                     1,
                     2,
-                    3
+                    3,
+                    4
                 ]
             }
         },
@@ -21,7 +22,7 @@
                             "texture": "pineapple_crop_0",
                             "ambient_occlusion": false,
                             "face_dimming": false,
-                            "render_method": "alpha_test"
+                            "render_method": "alpha_test_single_sided"
                         }
                     },
                     "minecraft:loot": "loot_tables/pineapple_delight/crops/pineapple_block.json",
@@ -48,7 +49,7 @@
                             "texture": "pineapple_crop_1",
                             "ambient_occlusion": false,
                             "face_dimming": false,
-                            "render_method": "alpha_test"
+                            "render_method": "alpha_test_single_sided"
                         }
                     },
                     "minecraft:loot": "loot_tables/pineapple_delight/crops/pineapple_block.json",
@@ -75,7 +76,7 @@
                             "texture": "pineapple_crop_2",
                             "ambient_occlusion": false,
                             "face_dimming": false,
-                            "render_method": "alpha_test"
+                            "render_method": "alpha_test_single_sided"
                         }
                     },
                     "minecraft:loot": "loot_tables/pineapple_delight/crops/pineapple_block.json",
@@ -102,11 +103,38 @@
                             "texture": "pineapple_crop_3",
                             "ambient_occlusion": false,
                             "face_dimming": false,
-                            "render_method": "alpha_test"
+                            "render_method": "alpha_test_single_sided"
+                        }
+                    },
+                    "minecraft:loot": "loot_tables/pineapple_delight/crops/pineapple_block.json",
+                    "minecraft:geometry": "geometry.pineapple_crop_3",
+                    "minecraft:selection_box": {
+                        "origin": [
+                            -8,
+                            0,
+                            -8
+                        ],
+                        "size": [
+                            16,
+                            16,
+                            16
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('farmersdelight:growth') == 4",
+                "components": {
+                    "minecraft:material_instances": {
+                        "*": {
+                            "texture": "pineapple_crop_4",
+                            "ambient_occlusion": false,
+                            "face_dimming": false,
+                            "render_method": "alpha_test_single_sided"
                         }
                     },
                     "minecraft:loot": "loot_tables/pineapple_delight/crops/pineapple_block_riped.json",
-                    "minecraft:geometry": "geometry.pineapple_crop_3",
+                    "minecraft:geometry": "geometry.pineapple_crop_4",
                     "minecraft:selection_box": {
                         "origin": [
                             -8,
@@ -127,8 +155,8 @@
                 "loot": "loot_tables/pineapple_delight/empty.json",
                 "state": {
                     "name": "farmersdelight:growth",
-                    "age": 3,
-                    "age_after_harvest": 3
+                    "age": 4,
+                    "age_after_harvest": 4
                 }
             },
             "minecraft:liquid_detection": {
@@ -144,7 +172,7 @@
                     "texture": "pineapple_crop_0",
                     "ambient_occlusion": false,
                     "face_dimming": false,
-                    "render_method": "alpha_test"
+                    "render_method": "alpha_test_single_sided"
                 }
             },
             "minecraft:selection_box": {

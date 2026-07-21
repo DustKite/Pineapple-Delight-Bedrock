@@ -5,7 +5,7 @@
             "identifier": "pineapple_delight:scatter_wild_pineapple_feature"
         },
         "places_feature": "pineapple_delight:wild_pineapple_feature",
-        "iterations": 7,
+        "iterations": 8,
         "x": {
             "distribution": "uniform",
             "extent": [

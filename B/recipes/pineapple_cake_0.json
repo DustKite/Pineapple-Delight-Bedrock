@@ -1,0 +1,37 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pineapple_delight:pineapple_cake_0"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "pineapple_delight:pineapple_cake",
+      "count": 1
+    },
+    "pattern": [
+      "ouo",
+      "xwx",
+      "mmm"
+    ],
+    "key": {
+      "m": {
+        "item": "minecraft:wheat"
+      },
+      "o": {
+        "tag": "farmersdelight:is_pineapple"
+      },
+      "u": {
+        "item": "minecraft:milk_bucket"
+      },
+      "w": {
+        "tag": "minecraft:egg"
+      },
+      "x": {
+        "item": "minecraft:sugar"
+      }
+    }
+  }
+}

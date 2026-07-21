@@ -1,37 +1,55 @@
 {
-    "texture_data": {
-      "pineapple_crop_3": {
-        "textures": "textures/blocks/pineapple_crop_3"
-      },
-      "pineapple_crop_2": {
-        "textures": "textures/blocks/pineapple_crop_2"
-      },
-      "pineapple_crop_1": {
-        "textures": "textures/blocks/pineapple_crop_1"
-      },
-      "pineapple_pie_top": {
-        "textures": "textures/blocks/pineapple_pie_top"
-      },
-      "pie_bottom": {
-        "textures": "textures/blocks/pie_bottom"
-      },
-      "pie_side": {
-        "textures": "textures/blocks/pie_side"
-      },
-      "pineapple_pie_inner": {
-        "textures": "textures/blocks/pineapple_pie_inner"
-      },
-      "pineapple_block_bottom": {
-        "textures": "textures/blocks/pineapple_block_bottom"
-      },
-      "pineapple_block_side": {
-        "textures": "textures/blocks/pineapple_block_side"
-      },
-      "pineapple_block_top": {
-        "textures": "textures/blocks/pineapple_block_top"
-      },
-      "pineapple_crop_0": {
-        "textures": "textures/blocks/pineapple_crop_0"
-      }
+  "texture_data": {
+    "pie_bottom": {
+      "textures": "textures/blocks/pie_bottom"
+    },
+    "pie_side": {
+      "textures": "textures/blocks/pie_side"
+    },
+    "pineapple_cake_bottom": {
+      "textures": "textures/blocks/pineapple_cake_bottom"
+    },
+    "pineapple_cake_inner": {
+      "textures": "textures/blocks/pineapple_cake_inner"
+    },
+    "pineapple_cake_side": {
+      "textures": "textures/blocks/pineapple_cake_side"
+    },
+    "pineapple_cake_top": {
+      "textures": "textures/blocks/pineapple_cake_top"
+    },
+    "pineapple_crate_bottom": {
+      "textures": "textures/blocks/pineapple_crate_bottom"
+    },
+    "pineapple_crate_side": {
+      "textures": "textures/blocks/pineapple_crate_side"
+    },
+    "pineapple_crate_top": {
+      "textures": "textures/blocks/pineapple_crate_top"
+    },
+    "pineapple_crop_0": {
+      "textures": "textures/blocks/pineapple_crop_0"
+    },
+    "pineapple_crop_1": {
+      "textures": "textures/blocks/pineapple_crop_1"
+    },
+    "pineapple_crop_2": {
+      "textures": "textures/blocks/pineapple_crop_2"
+    },
+    "pineapple_crop_3": {
+      "textures": "textures/blocks/pineapple_crop_3"
+    },
+    "pineapple_crop_4": {
+      "textures": "textures/blocks/pineapple_crop_4"
+    },
+    "pineapple_pie_inner": {
+      "textures": "textures/blocks/pineapple_pie_inner"
+    },
+    "pineapple_pie_top": {
+      "textures": "textures/blocks/pineapple_pie_top"
+    },
+    "wild_pineapple": {
+      "textures": "textures/blocks/wild_pineapple"
     }
   }
+}

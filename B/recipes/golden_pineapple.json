@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pineapple_delight:golden_pineapple"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "pineapple_delight:golden_pineapple",
+      "count": 1
+    },
+    "pattern": [
+      "ggg",
+      "gpg",
+      "ggg"
+    ],
+    "key": {
+      "g": {
+        "item": "minecraft:gold_ingot"
+      },
+      "p": {
+        "item": "pineapple_delight:pineapple"
+      }
+    }
+  }
+}

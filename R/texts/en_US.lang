@@ -11,5 +11,8 @@ item.pineapple_delight:pineapple_ice_cream=Pineapple Ice-cream
 item.pineapple_delight:pineapple_pie=Pineapple Pie
 item.pineapple_delight:pineapple_pie_side=Slice of Pineapple Pie
 item.pineapple_delight:pineapple_juice=Pineapple Juice
+item.pineapple_delight:golden_pineapple=Golden Pineapple
+item.pineapple_delight:pineapple_cake=Pineapple Cake
+item.pineapple_delight:pineapple_cake_slice=Slice of Pineapple Cake
 
 tile.pineapple_delight:pineapple_crate.name=Crate Pineapple

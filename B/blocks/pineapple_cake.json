@@ -1,0 +1,331 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:block": {
+        "description": {
+            "identifier": "pineapple_delight:pineapple_cake",
+            "menu_category": {
+                "category": "none"
+            },
+            "states": {
+                "farmersdelight:food_block_stage": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            },
+            "traits": {
+                "minecraft:placement_direction": {
+                    "enabled_states": [
+                        "minecraft:cardinal_direction"
+                    ],
+                    "y_rotation_offset": 0.0
+                }
+            }
+        },
+        "permutations": [
+            {
+                "condition": "query.block_state('farmersdelight:food_block_stage') == 0",
+                "components": {
+                    "minecraft:geometry": "geometry.pineapple_cake",
+                    "minecraft:collision_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            14.0,
+                            8.0,
+                            14.0
+                        ]
+                    },
+                    "minecraft:selection_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            14.0,
+                            8.0,
+                            14.0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('farmersdelight:food_block_stage') == 1",
+                "components": {
+                    "minecraft:geometry": "geometry.pineapple_cake_slice1",
+                    "minecraft:loot": "loot_tables/farmersdelight/empty.json",
+                    "minecraft:collision_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            12.0,
+                            8.0,
+                            14.0
+                        ]
+                    },
+                    "minecraft:selection_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            12.0,
+                            8.0,
+                            14.0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('farmersdelight:food_block_stage') == 2",
+                "components": {
+                    "minecraft:geometry": "geometry.pineapple_cake_slice2",
+                    "minecraft:loot": "loot_tables/farmersdelight/empty.json",
+                    "minecraft:collision_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            10.0,
+                            8.0,
+                            14.0
+                        ]
+                    },
+                    "minecraft:selection_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            10.0,
+                            8.0,
+                            14.0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('farmersdelight:food_block_stage') == 3",
+                "components": {
+                    "minecraft:geometry": "geometry.pineapple_cake_slice3",
+                    "minecraft:loot": "loot_tables/farmersdelight/empty.json",
+                    "minecraft:collision_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            8.0,
+                            8.0,
+                            14.0
+                        ]
+                    },
+                    "minecraft:selection_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            8.0,
+                            8.0,
+                            14.0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('farmersdelight:food_block_stage') == 4",
+                "components": {
+                    "minecraft:geometry": "geometry.pineapple_cake_slice4",
+                    "minecraft:loot": "loot_tables/farmersdelight/empty.json",
+                    "minecraft:collision_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            6.0,
+                            8.0,
+                            14.0
+                        ]
+                    },
+                    "minecraft:selection_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            6.0,
+                            8.0,
+                            14.0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('farmersdelight:food_block_stage') == 5",
+                "components": {
+                    "minecraft:geometry": "geometry.pineapple_cake_slice5",
+                    "minecraft:loot": "loot_tables/farmersdelight/empty.json",
+                    "minecraft:collision_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            4.0,
+                            8.0,
+                            14.0
+                        ]
+                    },
+                    "minecraft:selection_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            4.0,
+                            8.0,
+                            14.0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('farmersdelight:food_block_stage') == 6",
+                "components": {
+                    "minecraft:geometry": "geometry.pineapple_cake_slice6",
+                    "minecraft:loot": "loot_tables/farmersdelight/empty.json",
+                    "minecraft:collision_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            2.0,
+                            8.0,
+                            14.0
+                        ]
+                    },
+                    "minecraft:selection_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            2.0,
+                            8.0,
+                            14.0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('minecraft:cardinal_direction') == 'north'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            180,
+                            0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('minecraft:cardinal_direction') == 'south'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('minecraft:cardinal_direction') == 'west'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            270,
+                            0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('minecraft:cardinal_direction') == 'east'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            90,
+                            0
+                        ]
+                    }
+                }
+            }
+        ],
+        "components": {
+            "farmersdelight:pastry": {
+                "slice": "pineapple_delight:pineapple_cake_slice",
+                "counter": "farmersdelight:food_block_stage",
+                "servings": 7
+            },
+            "minecraft:geometry": "geometry.pineapple_cake",
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 0.5
+            },
+            "minecraft:light_dampening": 0,
+            "minecraft:destructible_by_explosion": {
+                "explosion_resistance": 0.5
+            },
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "pineapple_cake_top"
+                },
+                "inner": {
+                    "texture": "pineapple_cake_inner"
+                },
+                "side": {
+                    "texture": "pineapple_cake_side"
+                },
+                "top": {
+                    "texture": "pineapple_cake_top"
+                },
+                "bottom": {
+                    "texture": "pineapple_cake_bottom"
+                }
+            },
+            "minecraft:connection_rule": {
+                "accepts_connections_from": "none"
+            }
+        }
+    }
+}

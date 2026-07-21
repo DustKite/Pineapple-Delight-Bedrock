@@ -11,5 +11,8 @@ item.pineapple_delight:pineapple_ice_cream=Ананасове морозиво
 item.pineapple_delight:pineapple_pie=Ананасовий пиріг
 item.pineapple_delight:pineapple_pie_side=Шматок ананасового пирога
 item.pineapple_delight:pineapple_juice=Ананасовий сік
+item.pineapple_delight:golden_pineapple=Золотий ананас
+item.pineapple_delight:pineapple_cake=Ананасовий торт
+item.pineapple_delight:pineapple_cake_slice=Шматок ананасового торта
 
 tile.pineapple_delight:pineapple_crate.name=Ящик з ананасами

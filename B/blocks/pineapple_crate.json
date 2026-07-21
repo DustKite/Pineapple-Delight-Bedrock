@@ -11,13 +11,13 @@
         "components": {
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "pineapple_block_side"
+                    "texture": "pineapple_crate_side"
                 },
                 "up": {
-                    "texture": "pineapple_block_top"
+                    "texture": "pineapple_crate_top"
                 },
                 "down": {
-                    "texture": "pineapple_block_bottom"
+                    "texture": "pineapple_crate_bottom"
                 }
             },
             "minecraft:destructible_by_mining": {

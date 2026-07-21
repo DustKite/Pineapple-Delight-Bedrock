@@ -1,0 +1,40 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:item": {
+        "components": {
+            "minecraft:food": {
+                "can_always_eat": false,
+                "nutrition": 6,
+                "saturation_modifier": 1.2
+            },
+            "minecraft:icon": {
+                "textures": {
+                    "default": "golden_pineapple"
+                }
+            },
+            "minecraft:compostable": {
+                "composting_chance": 65
+            },
+            "minecraft:tags": {
+                "tags": [
+                    "farmersdelight:is_pineapple"
+                ]
+            },
+            "minecraft:use_animation": "eat",
+            "minecraft:use_modifiers": {
+                "use_duration": 1.6,
+                "movement_modifier": 0.4
+            },
+            "efm:realistic_food": {
+                "expire_time": 15
+            }
+        },
+        "description": {
+            "identifier": "pineapple_delight:golden_pineapple",
+            "menu_category": {
+                "category": "equipment",
+                "group": "farmersdelight:itemGroup.name.miscFood"
+            }
+        }
+    }
+}

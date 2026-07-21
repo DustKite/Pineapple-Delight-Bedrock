@@ -18,8 +18,8 @@
             "minecraft:geometry": "geometry.wild_pineapple",
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "pineapple_crop_3",
-                    "render_method": "alpha_test",
+                    "texture": "wild_pineapple",
+                    "render_method": "alpha_test_single_sided",
                     "ambient_occlusion": false,
                     "face_dimming": false
                 }

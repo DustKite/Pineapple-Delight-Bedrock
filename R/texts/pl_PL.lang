@@ -11,5 +11,8 @@ item.pineapple_delight:pineapple_ice_cream=Lody Ananasowe
 item.pineapple_delight:pineapple_pie=Ciasto Ananasowe
 item.pineapple_delight:pineapple_pie_side=Kawałek Ciasta Ananasowego
 item.pineapple_delight:pineapple_juice=Sok Ananasowy
+item.pineapple_delight:golden_pineapple=Złoty Ananas
+item.pineapple_delight:pineapple_cake=Ananasowy Tort
+item.pineapple_delight:pineapple_cake_slice=Kawałek Ananasowego Torta
 
 tile.pineapple_delight:pineapple_crate.name=Skrzynka z Ananasami

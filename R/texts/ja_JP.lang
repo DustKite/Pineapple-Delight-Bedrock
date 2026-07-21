@@ -11,5 +11,8 @@ item.pineapple_delight:pineapple_ice_cream=パイナップルアイスクリー�
 item.pineapple_delight:pineapple_pie=パイナップルパイ
 item.pineapple_delight:pineapple_pie_side=切り分けたパイナップルパイ
 item.pineapple_delight:pineapple_juice=パイナップルジュース
+item.pineapple_delight:golden_pineapple=ゴールデンパイナップル
+item.pineapple_delight:pineapple_cake=パイナップルケーキ
+item.pineapple_delight:pineapple_cake_slice=切り分けたパイナップルケーキ
 
 tile.pineapple_delight:pineapple_crate.name=パイナップル箱
