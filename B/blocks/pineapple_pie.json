@@ -116,19 +116,19 @@
             },
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "pineapple_pie_top"
+                    "texture": "pineapple_delight:pineapple_pie_top"
                 },
                 "inner": {
-                    "texture": "pineapple_pie_inner"
+                    "texture": "pineapple_delight:pineapple_pie_inner"
                 },
                 "side": {
-                    "texture": "pie_side"
+                    "texture": "pineapple_delight:pie_side"
                 },
                 "top": {
-                    "texture": "pineapple_pie_top"
+                    "texture": "pineapple_delight:pineapple_pie_top"
                 },
                 "bottom": {
-                    "texture": "pie_bottom"
+                    "texture": "pineapple_delight:pie_bottom"
                 }
             },
             "minecraft:collision_box": {

@@ -8,7 +8,7 @@
             },
             "minecraft:icon": {
                 "textures": {
-                    "default": "wild_pineapple"
+                    "default": "pineapple_delight:wild_pineapple"
                 }
             }
         },

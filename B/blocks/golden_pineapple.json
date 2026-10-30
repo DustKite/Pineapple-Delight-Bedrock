@@ -1,0 +1,35 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:block": {
+        "description": {
+            "identifier": "pineapple_delight:golden_pineapple",
+            "menu_category": {
+                "category": "none"
+            }
+        },
+        "components": {
+            "minecraft:geometry": "geometry.pineapple_delight.pineapple",
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "pineapple_delight:golden_pineapple",
+                    "render_method": "alpha_test_single_sided"
+                }
+            },
+            "minecraft:destruction_particles": {
+                "texture": "pineapple_delight:pineapple_particle"
+            },
+            "minecraft:placement_filter": {
+                "conditions": [
+                    {
+                        "block_filter": [
+                            "pineapple_delight:golden_pineapple"
+                        ],
+                        "allowed_faces": [
+                            "up"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

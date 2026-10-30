@@ -1,55 +1,64 @@
 {
   "texture_data": {
-    "pie_bottom": {
-      "textures": "textures/blocks/pie_bottom"
+    "pineapple_delight:golden_pineapple": {
+      "textures": "textures/blocks/pineapple_delight/golden_pineapple"
     },
-    "pie_side": {
-      "textures": "textures/blocks/pie_side"
+    "pineapple_delight:pie_bottom": {
+      "textures": "textures/blocks/pineapple_delight/pie_bottom"
     },
-    "pineapple_cake_bottom": {
-      "textures": "textures/blocks/pineapple_cake_bottom"
+    "pineapple_delight:pie_side": {
+      "textures": "textures/blocks/pineapple_delight/pie_side"
     },
-    "pineapple_cake_inner": {
-      "textures": "textures/blocks/pineapple_cake_inner"
+    "pineapple_delight:pineapple": {
+      "textures": "textures/blocks/pineapple_delight/pineapple"
     },
-    "pineapple_cake_side": {
-      "textures": "textures/blocks/pineapple_cake_side"
+    "pineapple_delight:pineapple_cake_bottom": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_cake_bottom"
     },
-    "pineapple_cake_top": {
-      "textures": "textures/blocks/pineapple_cake_top"
+    "pineapple_delight:pineapple_cake_inner": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_cake_inner"
     },
-    "pineapple_crate_bottom": {
-      "textures": "textures/blocks/pineapple_crate_bottom"
+    "pineapple_delight:pineapple_cake_side": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_cake_side"
     },
-    "pineapple_crate_side": {
-      "textures": "textures/blocks/pineapple_crate_side"
+    "pineapple_delight:pineapple_cake_top": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_cake_top"
     },
-    "pineapple_crate_top": {
-      "textures": "textures/blocks/pineapple_crate_top"
+    "pineapple_delight:pineapple_crate_bottom": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_crate_bottom"
     },
-    "pineapple_crop_0": {
-      "textures": "textures/blocks/pineapple_crop_0"
+    "pineapple_delight:pineapple_crate_side": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_crate_side"
     },
-    "pineapple_crop_1": {
-      "textures": "textures/blocks/pineapple_crop_1"
+    "pineapple_delight:pineapple_crate_top": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_crate_top"
     },
-    "pineapple_crop_2": {
-      "textures": "textures/blocks/pineapple_crop_2"
+    "pineapple_delight:pineapple_crop_0": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_crop_0"
     },
-    "pineapple_crop_3": {
-      "textures": "textures/blocks/pineapple_crop_3"
+    "pineapple_delight:pineapple_crop_1": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_crop_1"
     },
-    "pineapple_crop_4": {
-      "textures": "textures/blocks/pineapple_crop_4"
+    "pineapple_delight:pineapple_crop_2": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_crop_2"
     },
-    "pineapple_pie_inner": {
-      "textures": "textures/blocks/pineapple_pie_inner"
+    "pineapple_delight:pineapple_crop_3": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_crop_3"
     },
-    "pineapple_pie_top": {
-      "textures": "textures/blocks/pineapple_pie_top"
+    "pineapple_delight:pineapple_crop_4": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_crop_4"
     },
-    "wild_pineapple": {
-      "textures": "textures/blocks/wild_pineapple"
+    "pineapple_delight:pineapple_particle": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_particle"
+    },
+    "pineapple_delight:pineapple_pie_inner": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_pie_inner"
+    },
+    "pineapple_delight:pineapple_pie_top": {
+      "textures": "textures/blocks/pineapple_delight/pineapple_pie_top"
+    },
+    "pineapple_delight:wild_pineapple": {
+      "textures": "textures/blocks/pineapple_delight/wild_pineapple"
     }
   }
 }

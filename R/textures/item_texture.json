@@ -2,47 +2,47 @@
   "resource_pack_name": "vanilla",
   "texture_name": "atlas.items",
   "texture_data": {
-    "golden_pineapple": {
-      "textures": "textures/items/golden_pineapple"
+    "pineapple_delight:golden_pineapple": {
+      "textures": "textures/items/pineapple_delight/golden_pineapple"
     },
-    "pineaapple_pie": {
-      "textures": "textures/items/pineaapple_pie"
+    "pineapple_delight:pineaapple_pie": {
+      "textures": "textures/items/pineapple_delight/pineaapple_pie"
     },
-    "pineapple": {
-      "textures": "textures/items/pineapple"
+    "pineapple_delight:pineapple": {
+      "textures": "textures/items/pineapple_delight/pineapple"
     },
-    "pineapple_cake": {
-      "textures": "textures/items/pineapple_cake"
+    "pineapple_delight:pineapple_cake": {
+      "textures": "textures/items/pineapple_delight/pineapple_cake"
     },
-    "pineapple_cake_slice": {
-      "textures": "textures/items/pineapple_cake_slice"
+    "pineapple_delight:pineapple_cake_slice": {
+      "textures": "textures/items/pineapple_delight/pineapple_cake_slice"
     },
-    "pineapple_crop": {
-      "textures": "textures/items/pineapple_crop"
+    "pineapple_delight:pineapple_crop": {
+      "textures": "textures/items/pineapple_delight/pineapple_crop"
     },
-    "pineapple_fried_rice": {
-      "textures": "textures/items/pineapple_fried_rice"
+    "pineapple_delight:pineapple_fried_rice": {
+      "textures": "textures/items/pineapple_delight/pineapple_fried_rice"
     },
-    "pineapple_ice_cream": {
-      "textures": "textures/items/pineapple_ice_cream"
+    "pineapple_delight:pineapple_ice_cream": {
+      "textures": "textures/items/pineapple_delight/pineapple_ice_cream"
     },
-    "pineapple_juice": {
-      "textures": "textures/items/pineapple_juice"
+    "pineapple_delight:pineapple_juice": {
+      "textures": "textures/items/pineapple_delight/pineapple_juice"
     },
-    "pineapple_milkshake": {
-      "textures": "textures/items/pineapple_milkshake"
+    "pineapple_delight:pineapple_milkshake": {
+      "textures": "textures/items/pineapple_delight/pineapple_milkshake"
     },
-    "pineapple_pie": {
-      "textures": "textures/items/pineapple_pie"
+    "pineapple_delight:pineapple_pie": {
+      "textures": "textures/items/pineapple_delight/pineapple_pie"
     },
-    "pineapple_pie_side": {
-      "textures": "textures/items/pineapple_pie_side"
+    "pineapple_delight:pineapple_pie_side": {
+      "textures": "textures/items/pineapple_delight/pineapple_pie_side"
     },
-    "pineapple_side": {
-      "textures": "textures/items/pineapple_side"
+    "pineapple_delight:pineapple_side": {
+      "textures": "textures/items/pineapple_delight/pineapple_side"
     },
-    "wild_pineapple": {
-      "textures": "textures/items/wild_pineapple"
+    "pineapple_delight:wild_pineapple": {
+      "textures": "textures/items/pineapple_delight/wild_pineapple"
     }
   }
 }

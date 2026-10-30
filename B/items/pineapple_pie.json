@@ -11,7 +11,7 @@
             },
             "minecraft:icon": {
                 "textures": {
-                    "default": "pineapple_pie"
+                    "default": "pineapple_delight:pineapple_pie"
                 }
             }
         },

@@ -15,10 +15,10 @@
             "minecraft:destructible_by_explosion": {
                 "explosion_resistance": 0.1
             },
-            "minecraft:geometry": "geometry.wild_pineapple",
+            "minecraft:geometry": "geometry.pineapple_delight.wild_pineapple",
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "wild_pineapple",
+                    "texture": "pineapple_delight:wild_pineapple",
                     "render_method": "alpha_test_single_sided",
                     "ambient_occlusion": false,
                     "face_dimming": false

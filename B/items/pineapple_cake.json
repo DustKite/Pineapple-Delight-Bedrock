@@ -8,7 +8,7 @@
             },
             "minecraft:icon": {
                 "textures": {
-                    "default": "pineapple_cake"
+                    "default": "pineapple_delight:pineapple_cake"
                 }
             }
         },

@@ -9,7 +9,7 @@
             },
             "minecraft:icon": {
                 "textures": {
-                    "default": "pineapple_fried_rice"
+                    "default": "pineapple_delight:pineapple_fried_rice"
                 }
             },
             "minecraft:use_animation": "eat",

@@ -30,7 +30,7 @@
             {
                 "condition": "query.block_state('farmersdelight:food_block_stage') == 0",
                 "components": {
-                    "minecraft:geometry": "geometry.pineapple_cake",
+                    "minecraft:geometry": "geometry.pineapple_delight.pineapple_cake",
                     "minecraft:collision_box": {
                         "origin": [
                             -7.0,
@@ -60,7 +60,7 @@
             {
                 "condition": "query.block_state('farmersdelight:food_block_stage') == 1",
                 "components": {
-                    "minecraft:geometry": "geometry.pineapple_cake_slice1",
+                    "minecraft:geometry": "geometry.pineapple_delight.pineapple_cake_slice1",
                     "minecraft:loot": "loot_tables/farmersdelight/empty.json",
                     "minecraft:collision_box": {
                         "origin": [
@@ -91,7 +91,7 @@
             {
                 "condition": "query.block_state('farmersdelight:food_block_stage') == 2",
                 "components": {
-                    "minecraft:geometry": "geometry.pineapple_cake_slice2",
+                    "minecraft:geometry": "geometry.pineapple_delight.pineapple_cake_slice2",
                     "minecraft:loot": "loot_tables/farmersdelight/empty.json",
                     "minecraft:collision_box": {
                         "origin": [
@@ -122,7 +122,7 @@
             {
                 "condition": "query.block_state('farmersdelight:food_block_stage') == 3",
                 "components": {
-                    "minecraft:geometry": "geometry.pineapple_cake_slice3",
+                    "minecraft:geometry": "geometry.pineapple_delight.pineapple_cake_slice3",
                     "minecraft:loot": "loot_tables/farmersdelight/empty.json",
                     "minecraft:collision_box": {
                         "origin": [
@@ -153,7 +153,7 @@
             {
                 "condition": "query.block_state('farmersdelight:food_block_stage') == 4",
                 "components": {
-                    "minecraft:geometry": "geometry.pineapple_cake_slice4",
+                    "minecraft:geometry": "geometry.pineapple_delight.pineapple_cake_slice4",
                     "minecraft:loot": "loot_tables/farmersdelight/empty.json",
                     "minecraft:collision_box": {
                         "origin": [
@@ -184,7 +184,7 @@
             {
                 "condition": "query.block_state('farmersdelight:food_block_stage') == 5",
                 "components": {
-                    "minecraft:geometry": "geometry.pineapple_cake_slice5",
+                    "minecraft:geometry": "geometry.pineapple_delight.pineapple_cake_slice5",
                     "minecraft:loot": "loot_tables/farmersdelight/empty.json",
                     "minecraft:collision_box": {
                         "origin": [
@@ -215,7 +215,7 @@
             {
                 "condition": "query.block_state('farmersdelight:food_block_stage') == 6",
                 "components": {
-                    "minecraft:geometry": "geometry.pineapple_cake_slice6",
+                    "minecraft:geometry": "geometry.pineapple_delight.pineapple_cake_slice6",
                     "minecraft:loot": "loot_tables/farmersdelight/empty.json",
                     "minecraft:collision_box": {
                         "origin": [
@@ -298,7 +298,7 @@
                 "counter": "farmersdelight:food_block_stage",
                 "servings": 7
             },
-            "minecraft:geometry": "geometry.pineapple_cake",
+            "minecraft:geometry": "geometry.pineapple_delight.pineapple_cake",
             "minecraft:destructible_by_mining": {
                 "seconds_to_destroy": 0.5
             },
@@ -308,19 +308,19 @@
             },
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "pineapple_cake_top"
+                    "texture": "pineapple_delight:pineapple_cake_top"
                 },
                 "inner": {
-                    "texture": "pineapple_cake_inner"
+                    "texture": "pineapple_delight:pineapple_cake_inner"
                 },
                 "side": {
-                    "texture": "pineapple_cake_side"
+                    "texture": "pineapple_delight:pineapple_cake_side"
                 },
                 "top": {
-                    "texture": "pineapple_cake_top"
+                    "texture": "pineapple_delight:pineapple_cake_top"
                 },
                 "bottom": {
-                    "texture": "pineapple_cake_bottom"
+                    "texture": "pineapple_delight:pineapple_cake_bottom"
                 }
             },
             "minecraft:connection_rule": {

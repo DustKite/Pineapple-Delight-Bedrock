@@ -19,14 +19,14 @@
                 "components": {
                     "minecraft:material_instances": {
                         "*": {
-                            "texture": "pineapple_crop_0",
+                            "texture": "pineapple_delight:pineapple_crop_0",
                             "ambient_occlusion": false,
                             "face_dimming": false,
                             "render_method": "alpha_test_single_sided"
                         }
                     },
                     "minecraft:loot": "loot_tables/pineapple_delight/crops/pineapple_block.json",
-                    "minecraft:geometry": "geometry.pineapple_crop_0",
+                    "minecraft:geometry": "geometry.pineapple_delight.pineapple_crop_0",
                     "minecraft:selection_box": {
                         "origin": [
                             -8,
@@ -46,14 +46,14 @@
                 "components": {
                     "minecraft:material_instances": {
                         "*": {
-                            "texture": "pineapple_crop_1",
+                            "texture": "pineapple_delight:pineapple_crop_1",
                             "ambient_occlusion": false,
                             "face_dimming": false,
                             "render_method": "alpha_test_single_sided"
                         }
                     },
                     "minecraft:loot": "loot_tables/pineapple_delight/crops/pineapple_block.json",
-                    "minecraft:geometry": "geometry.pineapple_crop_1",
+                    "minecraft:geometry": "geometry.pineapple_delight.pineapple_crop_1",
                     "minecraft:selection_box": {
                         "origin": [
                             -8,
@@ -73,14 +73,14 @@
                 "components": {
                     "minecraft:material_instances": {
                         "*": {
-                            "texture": "pineapple_crop_2",
+                            "texture": "pineapple_delight:pineapple_crop_2",
                             "ambient_occlusion": false,
                             "face_dimming": false,
                             "render_method": "alpha_test_single_sided"
                         }
                     },
                     "minecraft:loot": "loot_tables/pineapple_delight/crops/pineapple_block.json",
-                    "minecraft:geometry": "geometry.pineapple_crop_2",
+                    "minecraft:geometry": "geometry.pineapple_delight.pineapple_crop_2",
                     "minecraft:selection_box": {
                         "origin": [
                             -8,
@@ -100,14 +100,14 @@
                 "components": {
                     "minecraft:material_instances": {
                         "*": {
-                            "texture": "pineapple_crop_3",
+                            "texture": "pineapple_delight:pineapple_crop_3",
                             "ambient_occlusion": false,
                             "face_dimming": false,
                             "render_method": "alpha_test_single_sided"
                         }
                     },
                     "minecraft:loot": "loot_tables/pineapple_delight/crops/pineapple_block.json",
-                    "minecraft:geometry": "geometry.pineapple_crop_3",
+                    "minecraft:geometry": "geometry.pineapple_delight.pineapple_crop_3",
                     "minecraft:selection_box": {
                         "origin": [
                             -8,
@@ -127,14 +127,14 @@
                 "components": {
                     "minecraft:material_instances": {
                         "*": {
-                            "texture": "pineapple_crop_4",
+                            "texture": "pineapple_delight:pineapple_crop_4",
                             "ambient_occlusion": false,
                             "face_dimming": false,
                             "render_method": "alpha_test_single_sided"
                         }
                     },
                     "minecraft:loot": "loot_tables/pineapple_delight/crops/pineapple_block_riped.json",
-                    "minecraft:geometry": "geometry.pineapple_crop_4",
+                    "minecraft:geometry": "geometry.pineapple_delight.pineapple_crop_4",
                     "minecraft:selection_box": {
                         "origin": [
                             -8,
@@ -166,10 +166,10 @@
                     }
                 ]
             },
-            "minecraft:geometry": "geometry.pineapple_crop_0",
+            "minecraft:geometry": "geometry.pineapple_delight.pineapple_crop_0",
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "pineapple_crop_0",
+                    "texture": "pineapple_delight:pineapple_crop_0",
                     "ambient_occlusion": false,
                     "face_dimming": false,
                     "render_method": "alpha_test_single_sided"

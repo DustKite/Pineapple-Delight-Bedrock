@@ -9,7 +9,7 @@
             },
             "minecraft:icon": {
                 "textures": {
-                    "default": "pineapple_side"
+                    "default": "pineapple_delight:pineapple_side"
                 }
             },
             "minecraft:compostable": {

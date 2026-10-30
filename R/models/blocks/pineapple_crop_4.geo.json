@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.pineapple_crop_4",
+				"identifier": "geometry.pineapple_delight.pineapple_crop_4",
 				"texture_width": 64,
 				"texture_height": 64,
 				"visible_bounds_width": 2,

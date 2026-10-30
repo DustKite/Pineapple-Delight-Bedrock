@@ -11,7 +11,7 @@
             },
             "minecraft:icon": {
                 "textures": {
-                    "default": "pineapple_crop"
+                    "default": "pineapple_delight:pineapple_crop"
                 }
             },
             "farmersdelight:seed": "pineapple_delight:pineapple_block",

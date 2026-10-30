@@ -10,7 +10,7 @@
             },
             "minecraft:icon": {
                 "textures": {
-                    "default": "pineapple_ice_cream"
+                    "default": "pineapple_delight:pineapple_ice_cream"
                 }
             },
             "minecraft:use_animation": "drink",

@@ -44,7 +44,7 @@ const cookingPotRecipes = [
             { "item": "pineapple_delight:pineapple_side" },
             { "item": "farmersdelight:rice" },
             { "tag": "minecraft:egg" },
-            { "item": "minecraft:carrot" }
+            { "item": "minecraft:potato" }
         ],
         "result": {
             "item": "pineapple_delight:pineapple_fried_rice"

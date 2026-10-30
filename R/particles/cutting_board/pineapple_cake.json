@@ -51,7 +51,7 @@
     "description": {
       "basic_render_parameters": {
         "material": "particles_alpha",
-        "texture": "textures/items/pineapple_cake"
+        "texture": "textures/items/pineapple_delight/pineapple_cake"
       },
       "identifier": "pineapple_delight:pineapple_cake"
     }
