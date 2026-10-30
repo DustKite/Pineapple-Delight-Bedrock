@@ -22,7 +22,7 @@
 								"north": {"uv": [1, 8], "uv_size": [2, 8], "material_instance": "side"},
 								"east": {"uv": [1, 8], "uv_size": [14, 8], "material_instance": "side"},
 								"south": {"uv": [13, 8], "uv_size": [2, 8], "material_instance": "side"},
-								"west": {"uv": [1, 8], "uv_size": [14, 8], "material_instance": "side"},
+								"west": {"uv": [1, 8], "uv_size": [14, 8], "material_instance": "inner"},
 								"up": {"uv": [15, 15], "uv_size": [-2, -14], "material_instance": "top"},
 								"down": {"uv": [15, 15], "uv_size": [-2, -14], "material_instance": "bottom"}
 							}

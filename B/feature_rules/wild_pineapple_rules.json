@@ -49,11 +49,6 @@
                                 {
                                     "test": "has_biome_tag",
                                     "operator": "==",
-                                    "value": "birch"
-                                },
-                                {
-                                    "test": "has_biome_tag",
-                                    "operator": "==",
                                     "value": "pale_garden"
                                 },
                                 {
@@ -74,7 +69,7 @@
         },
         "distribution": {
             "iterations": 1,
-            "scatter_chance": 0.8,
+            "scatter_chance": 2.0,
             "coordinate_eval_order": "xzy",
             "x": 0,
             "y": 0,

@@ -19,7 +19,8 @@
               "function": "explosion_decay"
             }
           ]
-        }, {
+        },
+        {
           "conditions": [
             {
               "condition": "match_tool",
@@ -33,6 +34,15 @@
           ],
           "type": "item",
           "name": "pineapple_delight:wild_pineapple"
+        },
+        {
+          "type": "item",
+          "name": "pineapple_delight:pineapple_crop",
+          "functions": [
+            {
+              "function": "explosion_decay"
+            }
+          ]
         }
       ]
     }
